@@ -1,0 +1,19 @@
+{
+  "name": "WoL_DC-Bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "@types/wol": "^1.0.4",
+    "discord.js": "^14.25.1",
+    "dotenv": "^17.2.3",
+    "wol": "^1.0.7"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.3"
+  },
+  "private": true
+}
